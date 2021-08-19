@@ -1,0 +1,17 @@
+/* body{
+    background: url(https://images.unsplash.com/photo-1601979031925-424e53b6caaa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVwcHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+} */
+div{
+    background-color: black;
+    border: rgb(231, 13, 13) 5px solid;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    color: white;
+}
+
