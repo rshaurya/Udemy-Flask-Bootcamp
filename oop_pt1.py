@@ -1,3 +1,5 @@
+
+# Inheritance...
 class Animal():
 
     def __init__(self, fur):
