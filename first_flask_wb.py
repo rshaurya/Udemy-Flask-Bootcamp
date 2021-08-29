@@ -10,6 +10,10 @@ def index():
 def info():
     return "<h1> puppies are cute!!<h1>"
 
+@app.route('/puppy/<name>')
+def puppy(name):
+    return "<h1>Upper case: {}".format(name.upper())
+
 
 if __name__ == '__main__':
     app.run()
